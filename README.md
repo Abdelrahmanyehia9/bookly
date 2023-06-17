@@ -38,16 +38,13 @@ Night Theam and Dark theme
 UI Design By dribble
 
 ## Screen Shots
+![4f](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/74e5b2f6-e044-4516-9063-6a021af1fdf1)
 
-![3](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/56275054-32c1-4426-8cf7-9a3e1ad29b78)
+![1f](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/76a0444b-3574-4365-984b-7b8e666ad9d3)
 
-![1](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/e4ae4426-0a0a-41c2-a6ed-53a794894bd2) ![4](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/c903b800-36f1-4701-bd58-a6ca2be5b898)
+![3f](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/ff1df97e-9a55-4efb-8bc5-3bde0b8b6cfd)
 
+![2f](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/86e60daf-77ee-4ce1-9a6a-3de93c71703b)
 
-![2](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/dd54e289-0e6c-4fcc-94bc-e8b01a4091e4)
-![5](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/033a0bca-b94b-4da2-8176-91b48998757c)
-
-
-![6](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/7c1f6a9e-26d7-4d26-9ffc-7f99978df94e)![7](https://github.com/Abdelrahmanyehia9/bookly/assets/136289803/829171cd-6392-463f-8f2d-83ea263b5135)
 
 
