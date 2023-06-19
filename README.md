@@ -3,11 +3,11 @@
 bookapp by flutter
 
 ## Tools
-Dio package to mangage api 
+Dio package to mangage api and 
 
 App Router for navigation 
 
-Flutter Block 
+State management by Flutter Bloc 
 
 Mvvm Design  Architicture
 
